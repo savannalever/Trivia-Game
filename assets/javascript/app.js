@@ -6,7 +6,6 @@ var correctAnswers = 0;
 var incorrectAnswers = 0;
 var unanswered = 0;
 
-// Questions array
 var questions = [{
     question: "Trees tend to be long-lived, some reaching how old?",
     answerList: ["several thousand years", "several hundred years", "several million years", "they never die"],
